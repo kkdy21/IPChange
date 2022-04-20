@@ -1,0 +1,11 @@
+C:\Users\kjdy1\source\repos\IPChange\IPChange\obj\Debug\IPChange.csproj.AssemblyReference.cache
+C:\Users\kjdy1\source\repos\IPChange\IPChange\obj\Debug\IPChange.Form1.resources
+C:\Users\kjdy1\source\repos\IPChange\IPChange\obj\Debug\IPChange.IpconfigViewForm.resources
+C:\Users\kjdy1\source\repos\IPChange\IPChange\obj\Debug\IPChange.Properties.Resources.resources
+C:\Users\kjdy1\source\repos\IPChange\IPChange\obj\Debug\IPChange.csproj.GenerateResource.cache
+C:\Users\kjdy1\source\repos\IPChange\IPChange\obj\Debug\IPChange.csproj.CoreCompileInputs.cache
+C:\Users\kjdy1\source\repos\IPChange\IPChange\bin\Debug\IPChange.exe.config
+C:\Users\kjdy1\source\repos\IPChange\IPChange\bin\Debug\IPChange.exe
+C:\Users\kjdy1\source\repos\IPChange\IPChange\bin\Debug\IPChange.pdb
+C:\Users\kjdy1\source\repos\IPChange\IPChange\obj\Debug\IPChange.exe
+C:\Users\kjdy1\source\repos\IPChange\IPChange\obj\Debug\IPChange.pdb
